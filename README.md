@@ -45,7 +45,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Nox-gg/Nox-gg/output/snake.svg" alt="Snake animation" />
-
-###
